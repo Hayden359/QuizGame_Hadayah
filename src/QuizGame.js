@@ -139,7 +139,7 @@ function ViewHistory(history) {
 }
 
 
-// Game Executor (FIXED)
+// Game Executor
 function GameExecutor(whatToDo, history, modeChosen) {
 
   if (whatToDo === "Play") {
